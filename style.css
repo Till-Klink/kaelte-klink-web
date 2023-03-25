@@ -379,7 +379,6 @@ section {
   padding: 2rem;
   gap: 2rem;
   text-align: center;
-  background: rgb(244, 244, 244);
   border-radius: 0 0 1rem 1rem;
 }
 
@@ -391,7 +390,6 @@ section {
   padding-top: 2rem;
   padding-bottom: 1rem;
   border-radius: 1rem 1rem 0 0;
-  background-color: var(--bg-color);
 }
 
 .col {
