@@ -608,13 +608,13 @@ section {
 }
 @media (max-width: 660px) {
   .home-img img {
-    width: 20rem;
+    width: 25rem;
   }
 }
 
 @media (max-width: 450px) {
   .about-img img {
-    width: 20rem;
+    width: 25rem;
   }
   .logo {
     padding-bottom: 1rem;
@@ -638,18 +638,25 @@ section {
     font-size: 3rem;
   }
 
+  .service-content h2 {
+    font-size: 3rem;
+    line-height: 3.3rem;
+  }
+
   .about-content p {
     line-height: 2rem;
   }
 
   .about-content h2 {
     padding-bottom: 2rem;
-    line-height: 5rem;
+    font-size: 3rem;
+    line-height: 3.3rem;
   }
 
   .about-content h3 {
-    line-height: 3.2rem;
     padding-bottom: 2rem;
+    font-size: 2.5rem;
+    line-height: 2.8rem;
   }
 
   .about-content a {
@@ -657,15 +664,18 @@ section {
   }
 
   .rating h2 {
-    line-height: 5rem;
+    font-size: 3rem;
+    line-height: 3.3rem;
   }
 
   .contact h2 {
-    line-height: 5rem;
+    font-size: 3rem;
+    line-height: 3.3rem;
   }
 
   .contact h3 {
-    line-height: 3.5rem;
+    font-size: 2.5rem;
+    line-height: 2.8rem;
   }
 }
 
